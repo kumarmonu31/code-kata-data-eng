@@ -55,3 +55,6 @@ Output: resources/problem2_output_file
 ## Testing:
 
 pytest tests/
+
+####  Note: A 2 GB file was required for Problem2, but GitHub restricts file sizes to 100 MB. Therefore, the file could not be pushed to GitHub. To work around this, I used the Faker library to generate 2 GB of fake data. 
+#### Distributed Processing:  For processing large dataset, I utilized the PySpark library, which is designed to handle big data efficiently. 
