@@ -34,3 +34,24 @@
 
 - Any language, any platform
 - One of the above problems or both, if you feel like it.
+
+How to Run Code :
+## Install Dependencies:
+
+
+### pip install -r requirements.txt
+
+## Problem 1:
+
+Input: tests/resources/input_problem1.txt
+
+Expected Output: tests/resources/output_problem2.csv
+
+## Problem2
+Input: resources/problem2_input_file
+
+Output: resources/problem2_output_file
+
+## Testing:
+
+pytest tests/
